@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-DigitalWatch/static/css/main.6113f709.chunk.css",
+    "main.js": "/React-DigitalWatch/static/js/main.d9c269dd.chunk.js",
+    "main.js.map": "/React-DigitalWatch/static/js/main.d9c269dd.chunk.js.map",
+    "runtime-main.js": "/React-DigitalWatch/static/js/runtime-main.eb146c47.js",
+    "runtime-main.js.map": "/React-DigitalWatch/static/js/runtime-main.eb146c47.js.map",
+    "static/css/2.6635b54d.chunk.css": "/React-DigitalWatch/static/css/2.6635b54d.chunk.css",
+    "static/js/2.a69c1f26.chunk.js": "/React-DigitalWatch/static/js/2.a69c1f26.chunk.js",
+    "static/js/2.a69c1f26.chunk.js.map": "/React-DigitalWatch/static/js/2.a69c1f26.chunk.js.map",
+    "static/js/3.091dd098.chunk.js": "/React-DigitalWatch/static/js/3.091dd098.chunk.js",
+    "static/js/3.091dd098.chunk.js.map": "/React-DigitalWatch/static/js/3.091dd098.chunk.js.map",
+    "index.html": "/React-DigitalWatch/index.html",
+    "static/css/2.6635b54d.chunk.css.map": "/React-DigitalWatch/static/css/2.6635b54d.chunk.css.map",
+    "static/css/main.6113f709.chunk.css.map": "/React-DigitalWatch/static/css/main.6113f709.chunk.css.map",
+    "static/js/2.a69c1f26.chunk.js.LICENSE.txt": "/React-DigitalWatch/static/js/2.a69c1f26.chunk.js.LICENSE.txt",
+    "static/media/about-us.fb8779d3.jpg": "/React-DigitalWatch/static/media/about-us.fb8779d3.jpg",
+    "static/media/mdb.css": "/React-DigitalWatch/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/font-awesome-5.8.1.css": "/React-DigitalWatch/static/media/fa-solid-900.807e237e.svg",
+    "static/media/not-found.70b18ed8.jpg": "/React-DigitalWatch/static/media/not-found.70b18ed8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb146c47.js",
+    "static/css/2.6635b54d.chunk.css",
+    "static/js/2.a69c1f26.chunk.js",
+    "static/css/main.6113f709.chunk.css",
+    "static/js/main.d9c269dd.chunk.js"
+  ]
+}
