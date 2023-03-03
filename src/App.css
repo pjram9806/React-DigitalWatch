@@ -1,0 +1,194 @@
+/* Your custom styles */
+.btn-primary , .bg-primary{
+  background: linear-gradient(90deg,black 50%,blueviolet 50%);
+}
+.btn-secondary , .bg-secondary{
+  background: linear-gradient(90deg,black 50%,purple 50%);
+}
+.btn-success , .bg-success{
+  background: linear-gradient(90deg,black 50%,limegreen 50%);
+}
+.btn-info , .bg-info{
+  background: linear-gradient(90deg,black 50%,lightblue 50%);
+}
+.btn-warning , .bg-warning{
+  background: linear-gradient(90deg,black 50%,orange 50%);
+}
+.btn-danger , .bg-danger{
+  background: linear-gradient(90deg,black 50%,red 50%);
+}
+.btn-light , .bg-light{
+  background: linear-gradient(90deg,darkgray 50%,gray 50%);
+}
+.btn-dark , .bg-dark{
+  background: linear-gradient(90deg,black 50%,darkslategray 50%);
+}
+.table tbody tr td{
+  font-weight: bold;
+}
+.contact-img
+{
+  margin-top: -70px;
+}
+
+.bg-lg,.table-lg
+{
+  background: linear-gradient(90deg,maroon 50%,lightblue 50%);
+}
+/*.landing-page
+{
+  background:white url("assets/img/products/bg-grocery.jpg") no-repeat scroll center;
+  height: 100vh;
+  background-size: cover;
+  color: white;
+}
+.wrapper
+{
+  background-color: rgba(0,0,0,0.8);
+  height: 100%;
+}
+.blueviolet
+{
+  background-color: blueviolet;
+  padding: 5px;
+  font-size: 20px;
+}*/
+
+/*.dark-background {
+  background-color: #0b0b0b;
+}
+.bulb-image {
+  width: 150px;
+}
+.cat-image {
+  width: 300px;
+}
+.switch-board {
+  background-color: #7b8794;
+  width: 294px;
+  height: 139px;
+  border-radius: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  margin: 16px;
+}
+.switch-status {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+.on-switch {
+  color: #ffffff;
+  background-color: #cbd2d9;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: bold;
+  width: 99px;
+  height: 44px;
+  border-radius: 8px;
+  margin-left: 16px;
+}
+.off-switch {
+  color: #ffffff;
+  background-color: #e12d39;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: bold;
+  width: 99px;
+  height: 44px;
+  border-radius: 8px;
+}*/
+
+
+/*
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+}
+.counter-heading {
+  font-family: "Roboto";
+  font-size: 50px;
+  font-weight: 800;
+}
+.counter-value {
+  font-size: 75px;
+  font-weight: 900;
+}*/
+
+/*random no generator css */
+.bg-container {
+  background-color: #246db6;
+  height: 100vh;
+}
+
+.guess-game-img {
+  width: 100%;
+}
+
+.game-description {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.guess-bg-container {
+  background-color: #246db6;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.guess-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.guess-number-image {
+  width: 50px;
+}
+
+.user-input {
+  text-align: center;
+  color: #1f2933;
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: 500;
+  width: 300px;
+  padding: 10px;
+}
+
+.game-result {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 500;
+  padding: 10px;
+}
+
+.check-guess {
+  width: 170px;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 10px;
+}
+.list-container
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.title
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+  color: #183b56;
+  margin-bottom:30px;
+}
